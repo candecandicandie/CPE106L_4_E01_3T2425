@@ -1,0 +1,8 @@
+boy
+girl
+bat
+ball
+dog
+cat
+robot
+teacher
